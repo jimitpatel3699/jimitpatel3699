@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jimitpatel3699
-- 👀 I’m interested in java, .NET, PHP, Python.
+- 👀 I’m interested in java, .NET, PHP, Python. (BACKEND Development)
 - 🌱•	Self-motivated and hardworking, Proactive Aspirant seeking an opportunity to work in a challenging environment to prove my coding skills and utilize my knowledge of various databases for the growth of the organization.
 - 📫 How to reach me 
 - Email:-jimitpatel9879@gmail.com
